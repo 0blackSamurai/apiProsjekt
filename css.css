@@ -1,0 +1,30 @@
+body{
+    /* background: #eeedec; */
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    background: #333333;
+  }
+  .container{
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-size: large;
+    border: 1px solid lightgray;
+    background-color: lightblue;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #888888;
+  }
+  .icon{
+    position: relative;
+    width: 100px;
+    margin: auto;
+    border: 1px solid white;
+    border-radius: 10px;
+    top: -50px;
+    margin-bottom: -50px;
+    background-color: lightsalmon;
+    
+  }
+  .time{
+    width: 90%;
+  }
